@@ -24,7 +24,7 @@ x_raw = """
 #  PASTE THEORETICAL MASSES FROM PROSIGHT HERE (optional)
 #  These are theoretical c/z-ion monoisotopic masses - H.
 #  This is NOT part of the de novo sequencing method.
-#  This tests mass error in experimental fragment masses
+#  This tests mass error in experimental fragment masses.
 #  Leave blank if not needed.
 #  1.007825 will be added to each value automatically.
 # ─────────────────────────────────────────────
