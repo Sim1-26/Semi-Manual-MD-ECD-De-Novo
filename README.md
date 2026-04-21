@@ -4,4 +4,4 @@ Anthropic’s Claude Sonnet 4.6 and Anaconda’s Jupyter Notebook were used to c
 
 If using Anaconda’s Jupyter Notebook and figures are not interative run line 2 of code in a separate cell and fully restart the application.
 
-This code was developped for a masters thesis at the University of Edinburgh.
+This code was developed for a masters thesis at the University of Edinburgh.
